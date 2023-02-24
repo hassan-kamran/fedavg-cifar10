@@ -130,3 +130,9 @@ dmypy.json
 
 #vs-code
 .vscode/
+
+#OS Files
+.DS_Store
+
+#env
+env-tff3.9
